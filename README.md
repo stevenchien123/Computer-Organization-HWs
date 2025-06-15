@@ -1,2 +1,2 @@
 # Computer-Organization-HWs
-NCKU CSIE Computer Organizartion 2025 HW
+2025 NCKU CSIE Computer Organizartion HW
